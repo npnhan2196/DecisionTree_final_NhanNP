@@ -1,0 +1,15 @@
+Outlook,Temperature,Humidity,Windy,Play
+sunny,hot,high,weak,don't play
+sunny,hot,high,strong,don't play
+overcast,hot,high,weak,play
+rain,mild,high,weak,play
+rain,cold,normal,weak,play
+rain,cold,normal,strong,don't play
+overcast,cold,normal,strong,play
+sunny,mild,high,weak,don't play
+sunny,cold,normal,weak,play
+rain,mild,normal,weak,play
+sunny,mild,normal,strong,play
+overcast,mild,high,strong,play
+overcast,hot,normal,weak,play
+rain,mild,high,strong,don't play

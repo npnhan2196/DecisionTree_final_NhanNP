@@ -1,0 +1,14 @@
+Age,Experience,Rank,Nationality,Go
+1_Middle,1_Medium,2_Expert,UK,0
+1_Middle,2_High,0_Normal,USA,0
+0_Young,0_Low,1_Good,Others,0
+2_Old,0_Low,0_Normal,USA,0
+1_Middle,2_High,2_Expert,USA,1
+1_Middle,2_High,0_Normal,UK,0
+2_Old,0_Low,1_Good,Others,1
+0_Young,2_High,2_Expert,UK,1
+2_Old,2_High,1_Good,Others,1
+0_Young,0_Low,2_Expert,Others,1
+0_Young,0_Low,0_Normal,USA,0
+0_Young,0_Low,1_Good,UK,1
+2_Old,1_Medium,2_Expert,UK,1
